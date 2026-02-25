@@ -39,8 +39,8 @@ I focus on writing clean code and creating practical real-world projects.
 - Dynamic pricing
 - Responsive design
 
-🔗 Live Demo: (Add link)  
-🔗 GitHub Repo: (Add link)
+🔗 Live Demo: https://rittik9565.github.io/react-ecommerce-website/  
+🔗 GitHub Repo: https://github.com/Rittik9565/react-ecommerce-website
 
 ---
 
