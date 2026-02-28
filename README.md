@@ -49,8 +49,8 @@ I focus on writing clean code and creating practical real-world projects.
 - Error handling
 - Clean UI
 
-🔗 Live Demo: (Add link)  
-🔗 GitHub Repo: (Add link)
+🔗 Live Demo: https://rittik9565.github.io/currency-converter/  
+🔗 GitHub Repo: https://github.com/Rittik9565/currency-converter
 
 ---
 
